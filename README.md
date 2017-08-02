@@ -2,8 +2,8 @@
 Entertainment Center is a simple webpage that lists 6 of my favorite movies, including box art imagery and a movie trailer URL.
 
 ## Installation and use
--Open _"Entertainment_center.html"_ with a web browser
--Click on a movie's box art to see its trailer
+- Open _"Entertainment_center.html"_ with a web browser
+- Click on a movie's box art to see its trailer
 
 ## Movies included
 - Trumbo

@@ -2,7 +2,6 @@ import media
 import fresh_tomatoes
 
 #Store information for the 6 chosen movies
-
 trumbo = media.Movie("Trumbo",
                "https://upload.wikimedia.org/wikipedia/en/9/96/Trumbo_%282015_film%29_poster.jpg",
                "https://www.youtube.com/watch?v=n0dZ_2ICpJE"
